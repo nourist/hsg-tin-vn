@@ -1,218 +1,216 @@
 {
   "ac": {
-    "thcs-nghean2024-25": {
+    "thcs_nghean2024-25": {
       "caythong": true,
       "chinhphuong": true,
       "giangsinh": true,
       "trongcay": true
     },
-    "thcs-dienbien2024-25": {
+    "thcs_dienbien2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-thaibinh2024-25": {
+    "thcs_thaibinh2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-thanhhoa2024-25": {
+    "thcs_thanhhoa2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-haiduong2024-25": {
+    "thcs_haiduong2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true,
       "bai5": true
     },
-    "thcs-bariavungtau2022-23": {
+    "thcs_bariavungtau2022-23": {
       "cdiv": true,
       "game": true,
       "gift": true
     },
-    "thcs-binhdinh2021-22": {
+    "thcs_binhdinh2021-22": {
       "bauoc": false,
       "chonso": false,
       "nhac": false,
       "rung": false
     },
-    "ts10-tiengiang2023-24": {
+    "ts10_tiengiang2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true,
       "bai5": true
     },
-    "thcs-hanoi2013-14": {
+    "thcs_hanoi2013-14": {
       "cau1": false,
       "cau2": false,
       "cau3": false,
       "cau4": false
     },
-    "thcs-hatinh2024-25": {
+    "thcs_hatinh2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-hanoi2014-15": {
+    "thcs_hanoi2014-15": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "thcs-hanoi2015-16": {
+    "thcs_hanoi2015-16": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "ts10-quangninh2023-24": {
+    "ts10_quangninh2023-24": {
       "cau1": false,
       "cau2": false,
       "cau3": false,
       "cau4": false
     },
-    "thcs-hanoi2023-24": {
+    "thcs_hanoi2023-24": {
       "doantot": false,
       "hoahoc": false,
       "robot": false,
       "trochoi": false,
       "uocchung": false
     },
-    "ts10-khanhhoa2023-24": {
+    "ts10_khanhhoa2023-24": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "ts10-daklak2023-24": {
+    "ts10_daklak2023-24": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true,
       "cau5": true
     },
-    "thcs-hanoi2016-17": {
+    "thcs_hanoi2016-17": {
       "cau1": false,
       "cau2": false,
       "cau3": false,
       "cau4": false
     },
-    "thcs-hanoi2024-25": {
+    "thcs_hanoi2024-25": {
       "cau1": false,
       "cau2": false,
       "cau3": false,
       "cau4": false,
       "cau5": false
     },
-    "thcs-haiphong2024-25": {
+    "thcs_haiphong2024-25": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "thcs-bacninh2024-25": {
+    "thcs_bacninh2024-25": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "thcs-bacgiang2024-25": {
+    "thcs_bacgiang2024-25": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "ts10-dongthap2023-24": {
+    "ts10_dongthap2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-quangnam2023-24": {},
-    "ts10-thanhhoa2023-24": {
+    "ts10_thanhhoa2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-angiang2023-24": {
+    "ts10_angiang2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false,
       "bai5": false
     },
-    "ts10-biaria-vungtau2023-24": {},
-    "ts10-bentre2023-24": {
+    "ts10_bentre2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "ts10-binhduong2023-24": {
+    "ts10_binhduong2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-cantho2023-24": {
+    "ts10_cantho2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false,
       "bai5": false
     },
-    "ts10-TPdanang2023-24": {
+    "ts10_tpdanang2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "ts10-daknong2023-24": {
+    "ts10_daknong2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false,
       "bai5": false
     },
-    "ts10-hatinh2023-24": {
+    "ts10_hatinh2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-TPhochiminh2023-24": {
+    "ts10_tphochiminh2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "ts10-kiengiang2023-24": {
+    "ts10_kiengiang2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-kontum2023-24": {
+    "ts10_kontum2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "ts10-lamdong2023-24": {
+    "ts10_lamdong2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-laocai2023-24": {
+    "ts10_laocai2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
@@ -221,191 +219,166 @@
       "bai6": true,
       "bai7": true
     },
-    "ts10-ngheanDHV2023-24": {
+    "ts10_ngheandhv2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "ts10-nghean2023-24": {
+    "ts10_nghean2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-ninhbinh2023-24": {
+    "ts10_ninhbinh2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "thcs-TPdanang2024-25": {
+    "thcs_tpdanang2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-binhphuoc2024-25": {
+    "thcs_binhphuoc2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-soctrang2024-25": {
+    "thcs_soctrang2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "mientrung-taynguyen-kc2024-25": {},
-    "thcs-bentre2024-25": {
+    "thcs_bentre2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "thcs-namdinh2024-25": {
+    "thcs_namdinh2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true,
       "bai5": true
     },
-    "hue-ictc-junior-soloai2024-25": {
+    "olp-hue-ictc_junior-soloai2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false,
       "test": false
     },
-    "chonhsg9-quangtri2024-25": {},
-    "thcs-dongthap2024-25": {
+    "thcs_dongthap2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-binhduong2024-25": {
+    "thcs_binhduong2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-phuyen2024-25": {
+    "thcs_phuyen2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "lqd-2": {
-      "biendoi": true,
-      "keoco": true,
-      "nauan": true,
-      "tongbang": true,
-      "tuvung": true,
-      "tuvung_sol": true
-    },
-    "lqd-3": {
-      "average": false,
-      "chiak": false,
-      "guessnumber": false,
-      "khlt": false,
-      "titeo": false,
-      "vitamin": false
-    },
-    "thcs-hanoi2017-2018": {},
-    "thcs-hanoi2017-18": {
+    "thcs_hanoi2017-18": {
       "cau1": true,
       "cau2": true,
       "cau3": true,
       "cau4": true
     },
-    "thcs-hanoi2019-20": {
+    "thcs_hanoi2019-20": {
       "cau1": false,
       "cau2": false,
       "cau3": false,
       "cau4": false
     },
-    "hsg3-quangbinh2024-25": {
+    "thpt_quangbinh2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "olp-l11-truyenthong304-2025": {
-      "kstring": true,
-      "matrix3": true,
-      "xgrapth": true
-    },
-    "hsg3-khanhhoa2024-25": {
+    "thpt_khanhhoa2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "hsg3-hatinh2024-25": {
+    "thpt_hatinh2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "hsg3-tuyenquang2024-25": {
+    "thpt_tuyenquang2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "hsg-TPhochiminh2024-25": {},
-    "ts10-TPhochiminh-ptnk2024-25": {
+    "ts10_tphochiminh-ptnk2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true
     },
-    "hsg3-hanam2024-25": {
+    "thpt_hanam2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "hsg3-haiphong2024-25": {
+    "thpt_haiphong2024-25": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "thcs-tiengiang2024-25": {
+    "thcs_tiengiang2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true,
       "bai5": true
     },
-    "ts10-TPhochiminh-ptnk2023-24": {
+    "ts10_tphochiminh-ptnk2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "thcs-vinhphuc2024-25": {
+    "thcs_vinhphuc2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "ts10-vinhlong2023-24": {
+    "ts10_vinhlong2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true,
       "bai5": true
     },
-    "ts10-quangtri2023-24": {
+    "ts10_quangtri2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "ts10-quangbinh2023-24": {
+    "ts10_quangbinh2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true
     },
-    "ts10-phuyen2023-24": {
+    "ts10_phuyen2023-24": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
@@ -413,96 +386,85 @@
       "bai5": true,
       "test": true
     },
-    "hsg3-TPhochiminh2021-22": {
+    "thpt_tphochiminh2021-22": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "hsg3-TPhochiminh2022-23": {
+    "thpt_tphochiminh2022-23": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "hsg3-TPhochiminh2023-24": {
+    "thpt_tphochiminh2023-24": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "hsgQG2024-25": {
-      "ship": false
-    },
-    "thcs-ninhbinh2024-25": {
+    "thcs_ninhbinh2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "thcs-bariavungtau2024-25": {
+    "thcs_bariavungtau2024-25": {
       "bai1": true,
       "bai2": true,
       "bai3": true,
       "bai4": true
     },
-    "tht-longan2024-25": {
+    "tht_longan2024-25": {
       "doikhang": false,
       "giaima": false,
       "vongso": false
     },
-    "tht-bariavungtau2014-15": {
+    "tht_bariavungtau2014-15": {
       "AWARDS": true,
       "COORDSYS": true
     },
-    "tht-bariavungtau2023-24": {
+    "tht_bariavungtau2023-24": {
       "AREARECT": true,
       "COREWARD": true,
       "FMINSQUA": true
     },
-    "tht-bariavungtau2015-16": {
+    "tht_bariavungtau2015-16": {
       "COLOCHAR": false,
       "MINES": false
     },
-    "tht-bariavungtau2022-23": {
+    "tht_bariavungtau2022-23": {
       "COUPLNUM": false,
       "FKPOWMAX": false,
       "GROUANTS": false
     },
-    "tht-bariavungtau2021-22": {
+    "tht_bariavungtau2021-22": {
       "MEETEXCH": true,
       "PRIMEMAX": true,
       "TEAMCOMP": true
     },
-    "tht-bariavungtau2019-20": {
+    "tht_bariavungtau2019-20": {
       "AIRPORT": true,
       "ALIBPROD": true,
       "RTRIANG": true
     },
-    "tht-bariavungtau2017-18": {
+    "tht_bariavungtau2017-18": {
       "RECTANGL": false,
       "TRIANGLE": false
     },
-    "khaosat-hsg-tinh2024-25": {
-      "hoicho": false,
-      "khobau": false,
-      "minnt": false
-    },
-    "thithu-ts-2025-26": {},
-    "thithu-ts10-2025-26": {},
-    "thithu-ts10-pbc": {
+    "thithu_ts10-pbc": {
       "p1": false,
       "p2": false,
       "p3": false,
       "p4": false,
       "test": false
     },
-    "thithu-ts10-3": {},
-    "thithu-ts10-3-nangcao-2025-26": {
+    "thithu_ts10-3-nangcao-2025-26": {
       "FDATA": false,
       "MAXZONE": false,
       "ODDPRIME": false,
       "REVSEG": false,
       "TREASURE": false
     },
-    "ts10-nghean2025-26": {
+    "ts10_nghean2025-26": {
       "FUNNY": true,
       "INVP": true,
       "LUCKY": true,
@@ -512,130 +474,86 @@
       "test": true,
       "test2": true
     },
-    "ts10-TPhochiminh2025-26": {
+    "ts10_tphochiminh2025-26": {
       "bai1": false,
       "bai2": false,
       "bai3": false
     },
-    "chuyen-de-so-hoc": {
-      "bai10_choichoiso": false,
-      "bai11_primequery": false,
-      "bai12_gcdpcnt": false,
-      "bai13_goodstrp": false,
-      "bai14_game": false,
-      "bai15_roundseq": false,
-      "bai16_seq2": false,
-      "bai17_lcmpair": false,
-      "bai18_phanthuong": false,
-      "bai19_nguyentosexy": false,
-      "bai1_songuyento": false,
-      "bai2_songuyentobithieu": false,
-      "bai3_demcapnguyento": false,
-      "bai4_nuanguyento": false,
-      "bai5_boitrongdoan": false,
-      "bai6_luythua": false,
-      "bai7_demuoc": false,
-      "bai8_comdiv": false,
-      "bai9_chiasonguyen": false
-    },
-    "chon-dtqg-phanboichau-2024-25": {},
-    "tht-toanquoc-2025-26": {
+    "tht_toanquoc-2025-26": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "thithu-tmath-1": {
+    "thithu_tmath-1": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "haicontro-cuasotruot-2023-24": {},
-    "ontap-tonghop-hsg-9-2023-24": {},
-    "quyhoachdong2023-24": {},
-    "chon-hsg-tinh2025-26": {
-      "bpairs": false,
-      "chiphi": false,
-      "cpl": false,
-      "socp": false
-    },
-    "ts10-phutho2025-26": {
+    "ts10_phutho2025-26": {
       "cau1": false,
       "cau2": false,
       "cau3": false,
       "cau4": false
     },
-    "chon-dt-hsg-tinh-xa2025-26": {
-      "beautsq": false,
-      "commonmult": false,
-      "divcount": false,
-      "giftbuy": false
-    },
-    "thamlam2025-26": {},
-    "thcs-dubi-nghean-2023-24": {
+    "thcs_dubi-nghean-2023-24": {
       "b1": false,
       "b2": false,
       "b3": false,
       "b4": false
     },
-    "thcs-phuyen2021-22": {
+    "thcs_phuyen2021-22": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "khaosat-hsg-tinh-12-nghean2025-26": {
-      "BEADS": false,
-      "CAKES": false,
-      "PHATQUA": false
-    },
-    "kscl-dt-hsg12-nghean2024-25": {
+    "kscl_dt-hsg12-nghean2024-25": {
       "DOLLS": false,
       "LAMDEP": false,
       "NICETEAM": false
     },
-    "kscl-12-thpt-doluong-nghean2024-25": {
+    "kscl_12-thpt-doluong-nghean2024-25": {
       "DULICH": false,
       "SODU": false,
       "VC": false
     },
-    "kscl-12-hoanghoa2021-22": {
+    "kscl_12-hoanghoa2021-22": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false,
       "bai5": false
     },
-    "thithu-le-dhv2025-26": {},
-    "thithu-l13-9-12-24": {
+    "thithu_l13-9-12-24": {
       "count": false,
       "danhtu": false,
       "final": false,
       "REPALIND": false,
       "vacation": false
     },
-    "thithu-hsg-tinh-lan3-2024-25": {
+    "thithu_hsg-tinh-lan3-2024-25": {
       "BOBASO": false,
       "PROMAX": false,
       "ROBOTS": false,
       "SUMMAX": false
     },
-    "hsgqg2025-26": {
+    "hsgqg_2025-26": {
       "gift": false,
       "light": false,
       "post": false,
       "test": false,
       "tet": false
     },
-    "thcs-hanoi2025-26": {
+    "thcs_hanoi2025-26": {
       "bansung": false,
       "canbang": false,
       "choxuan": false,
       "khoangcach": false,
       "xoadoan": false
     },
-    "chondt-hsgqg-hue2023-24": {
+    "chondt-hsgqg_hue2023-24": {
       "BOARD": false,
       "CLIMBING": false,
       "COPRIME": false,
@@ -643,27 +561,17 @@
       "RNA": false,
       "TREE": false
     },
-    "chondt-hsgqg-quangtri2024-25": {
+    "chondt-hsgqg_quangtri2024-25": {
       "GCDS": false,
       "PADBLE": false,
       "SCORES": false
     },
-    "chondt-hsgqg-cantho2025-26": {
+    "chondt-hsgqg_cantho2025-26": {
       "bstr": false,
       "manage": false,
       "sensors": false
     },
-    "soloai-hue-ictc2026": {
-      "bai1": false,
-      "bai1_trau": false,
-      "bai2": false,
-      "bai2_trau": false,
-      "bai3": false,
-      "test1": false,
-      "test2": false
-    },
-    "chon-dthsgqg-ninhbinh2022-23": {},
-    "hsgqg2018-19": {
+    "hsgqg_2018-19": {
       "aspal": false,
       "comstr": false,
       "efill": false,
@@ -671,61 +579,35 @@
       "solpin": false,
       "workout": false
     },
-    "hsgqg2017-18": {},
-    "dethidexuat-binhdinh2022": {
-      "SX": false,
-      "TAMGIAC": false,
-      "TMAX": false
-    },
-    "dethidexuat-lehongphong2022": {
-      "Cartesius": false,
-      "Chocolate": false,
-      "shopping": false
-    },
-    "thithu-phan-l1": {
+    "thithu_phan-l1": {
       "CITY": false,
       "COUNT": false,
       "DULICH": false,
       "MAXPOINT": false
     },
-    "thithu-phan-l2": {
+    "thithu_phan-l2": {
       "dathiem": false,
       "mahoa": false,
       "robot": false,
       "socp": false
     },
-    "olympic-304-2026-27": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false
-    },
-    "ck-mttn-2026": {
-      "bai3": false,
-      "bai4": false
-    },
-    "thithu-phan-l3": {
+    "thithu_phan-l3": {
       "COUNT": false,
       "DAYSO": false,
       "DUONGTRON": false,
       "LCM": false
     },
-    "chondt-hsgqg-hcm2025-26": {},
-    "dhbb-k10-2012": {
+    "olp-dhbb_k10-2012": {
       "SUCULA": false,
       "TIMK": false,
       "TRAIN": false
     },
-    "dexuat-dhbb2025-k10": {
-      "dx1bai1": false,
-      "dx1bai2": false,
-      "dx1bai3": false
-    },
-    "prevoi-hanam2025": {
+    "prevoi_hanam2025": {
       "PerTree": false,
       "SumProd": false,
       "War": false
     },
-    "thithu-phan-l4": {
+    "thithu_phan-l4": {
       "DAYCHUYEN": false,
       "ECO": false,
       "eco_trau": false,
@@ -733,24 +615,24 @@
       "test": false,
       "THANDEN": false
     },
-    "thithu-phan-l5": {
+    "thithu_phan-l5": {
       "p1": false,
       "p2": false,
       "p3": false,
       "p4": false
     },
-    "dhbb-k10-2026": {
+    "olp-dhbb_k10-2026": {
       "path": false,
       "pour": false,
       "seq": false
     },
-    "thithu-phan-l6": {
+    "thithu_phan-l6": {
       "BAOMAT": false,
       "CHIAHET": false,
       "GAME": false,
       "WATER": false
     },
-    "chondt-hsgqg-camau2025-26": {
+    "chondt-hsgqg_camau2025-26": {
       "APALIN": false,
       "BUSGAME": false,
       "GAME": false,
@@ -758,41 +640,25 @@
       "TABLE": false,
       "TOUR": false
     },
-    "cpp-round-2": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai3_trau": false,
-      "bai4": false,
-      "bai5": false,
-      "test3": false
-    },
-    "cpp-ck-2026": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false,
-      "bai5": false
-    },
-    "ts10-danang2026": {
+    "ts10_danang2026": {
       "MESS": false,
       "PRIME": false,
       "SHOW": false,
       "TRAINS": false
     },
-    "ts10-quangtri2026": {
+    "ts10_quangtri2026": {
       "bai1": false,
       "bai2": false,
       "bai3": false,
       "bai4": false
     },
-    "ts10-nghean2026": {
+    "ts10_nghean2026": {
       "chiahang": false,
       "chungkhoan": false,
       "dacbiet": false,
       "matma": false
     },
-    "chondt-hsgqg-khanhhoa2024-25": {
+    "chondt-hsgqg_khanhhoa2024-25": {
       "APEN": false,
       "BMARK": false,
       "CLIS": false,
@@ -800,14 +666,13 @@
       "KIMCUONG": false,
       "VBAUCU": false
     },
-    "hsgqg2022-23": {
+    "hsgqg_2022-23": {
       "adn": false
     },
-    "hsgqg2020-21": {
+    "hsgqg_2020-21": {
       "noel": false
     },
-    "chondt-hsgqg-cantho2025": {},
-    "chondt-hsgqg-tphcm2022-23": {
+    "chondt-hsgqg_tphcm2022-23": {
       "FACE": false,
       "ILIGHT": false,
       "LAMTRON": false,
@@ -815,12 +680,12 @@
       "TIMSNT": false,
       "XEPGACH": false
     },
-    "chondt-hsgqg-laocai2022-23": {
+    "chondt-hsgqg_laocai2022-23": {
       "GAME": false,
       "SPACE": false,
       "TABLE": false
     },
-    "chondt-hsgqg-tuyenquang2023-24": {
+    "chondt-hsgqg_tuyenquang2023-24": {
       "BUONCO": false,
       "CHIABA": false,
       "KINHDOANH": false,
@@ -828,8 +693,7 @@
       "TBC": false,
       "TRONGTAI": false
     },
-    "chondt-hsgqg-danang2023": {},
-    "chondt-hsgqg-tphcm2023-24": {
+    "chondt-hsgqg_tphcm2023-24": {
       "CUAHANG": false,
       "DONGXU": false,
       "DUONGONG": false,
@@ -837,7 +701,7 @@
       "TRUNGBINH": false,
       "XEBUYT": false
     },
-    "chondt-hsgqg-tuyenquang2024-25": {
+    "chondt-hsgqg_tuyenquang2024-25": {
       "BOARD": false,
       "DAYSODEP": false,
       "LOTRINH": false,
@@ -845,7 +709,7 @@
       "STAR": false,
       "TWINS": false
     },
-    "chondt-hsgqg-danang2024-25": {
+    "chondt-hsgqg_danang2024-25": {
       "BEAUTY": false,
       "CATDAYSO": false,
       "CAYTAO": false,
@@ -853,7 +717,7 @@
       "LGR": false,
       "VARR": false
     },
-    "chondt-hsgqg-quangtri2022": {
+    "chondt-hsgqg_quangtri2022": {
       "CHONTR": false,
       "DUNGEON": false,
       "MUABANCO": false,
@@ -861,22 +725,17 @@
       "TABLE": false,
       "TINHPHI": false
     },
-    "chondt-hsgqg-tphcm2024-25": {
+    "chondt-hsgqg_tphcm2024-25": {
       "DATPHONG": false,
       "DRONE": false,
       "THAMQUAN": false
     },
-    "yugi-thithu-chondt-hsgqg-1": {
-      "build": true,
-      "electric": true,
-      "pangram": true
-    },
-    "chondt-hsgqg-hanam2024-25": {
+    "chondt-hsgqg_hanam2024-25": {
       "BOUQUET": false,
       "HAPPYPAR": false,
       "MINPATH": false
     },
-    "chondt-hsgqg-binhphuoc2024-25": {
+    "chondt-hsgqg_binhphuoc2024-25": {
       "bitmask": false,
       "chaydua": false,
       "combi": false,
@@ -884,13 +743,7 @@
       "dulich": false,
       "mul": false
     },
-    "cppro-1": {
-      "b1": false,
-      "b2": false,
-      "b3": false,
-      "b4": false
-    },
-    "chondt-hsgqg-angiang2025": {
+    "chondt-hsgqg_angiang2025": {
       "b1": false,
       "b2": false,
       "b3": false,
@@ -899,7 +752,7 @@
       "b6": false,
       "tempCodeRunnerFile": false
     },
-    "chondt-hsgqg-gialai2025": {
+    "chondt-hsgqg_gialai2025": {
       "CANDY": false,
       "ENERGY": false,
       "MEDIAN": false,
@@ -907,10 +760,40 @@
       "TRAFFIC": false,
       "TRANSPORT": false
     },
-    "yugi-thithu-chondt-hsgqg-2": {
-      "gcd": false,
-      "giddy": false,
-      "toy": false
-    }
+    "chondt-hsgqg_cantho2024-25": {},
+    "chondt-hsgqg_danang2023-24": {},
+    "chondt-hsgqg_ninhbinh2022-23": {},
+    "chondt-hsgqg_phanboichau-2024-25": {},
+    "chondt-hsgqg_tphcm2025-26": {},
+    "cppro_ck-2026": {},
+    "cppro_round-2": {},
+    "cppro_thithu-1": {},
+    "data.json": {},
+    "hsgqg_2016-17": {},
+    "hsgqg_2024-25": {},
+    "kscl_hsg-tinh-12-nghean2025-26": {},
+    "kscl_hsg-tinh2024-25": {},
+    "olp-304_2025": {},
+    "olp-304_2026-27": {},
+    "olp-dhbb_dexuat-binhdinh2022": {},
+    "olp-dhbb_dexuat-l10-2025": {},
+    "olp-dhbb_dexuat-lehongphong2022": {},
+    "olp-hue-ictc_junior-soloai2026": {},
+    "olp-mttn_kc2024-25": {},
+    "olp-mttn_kc2025-26": {},
+    "ontap_chuyen-de-so-hoc": {},
+    "ontap_haicontro-cuasotruot": {},
+    "ontap_quyhoachdong": {},
+    "ontap_thamlam": {},
+    "ontap_tonghop-hsg-9": {},
+    "thcs_quangtri2024-25": {},
+    "thcs_tphochiminh2024-25": {},
+    "thithu_l2-dhv2025-26": {},
+    "thithu_ts10-1-2025-26": {},
+    "thithu_ts10-2-2025-26": {},
+    "thithu_ts10-3-2025-26": {},
+    "ts10_bariavungtau2023-24": {},
+    "yugi-thithu-chondt-hsgqg_1": {},
+    "yugi-thithu-chondt-hsgqg_2": {}
   }
 }
