@@ -61,12 +61,6 @@
       "bai3": true,
       "bai4": true
     },
-    "l11-thithu-dienchau2024-25": {
-      "danvu": false,
-      "docao": false,
-      "hocsinh": false,
-      "xaugame": false
-    },
     "thcs-hanoi2014-15": {
       "cau1": true,
       "cau2": true,
@@ -329,18 +323,6 @@
       "cau2": false,
       "cau3": false,
       "cau4": false
-    },
-    "l10-thainguyen2024-25": {
-      "game": true,
-      "product": true,
-      "seq10": true,
-      "somax": true
-    },
-    "l11-thainguyen2024-25": {
-      "docsach": true,
-      "nice": true,
-      "seq11": true,
-      "seq25": true
     },
     "hsg3-quangbinh2024-25": {
       "bai1": false,
