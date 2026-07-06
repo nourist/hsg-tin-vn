@@ -284,16 +284,6 @@
       "test": false
     },
     "chonhsg9-quangtri2024-25": {},
-    "tmath-dp-c": {
-      "dp_c1": false,
-      "dp_c10": false,
-      "dp_c2": false,
-      "dp_c3": false,
-      "dp_c4": false,
-      "dp_c5": false,
-      "dp_c6": false,
-      "dp_c7": false
-    },
     "thcs-dongthap2024-25": {
       "bai1": true,
       "bai2": true,
@@ -367,11 +357,6 @@
       "bai1": false,
       "bai2": false,
       "bai3": false
-    },
-    "contest-49": {
-      "asequence": false,
-      "divisors": false,
-      "string": false
     },
     "hsg3-hatinh2024-25": {
       "bai1": false,
@@ -550,23 +535,6 @@
       "bai2": false,
       "bai3": false
     },
-    "tmath-9c-17": {
-      "bai1": false,
-      "bai10": false,
-      "bai11": false,
-      "bai12": false,
-      "bai13": false,
-      "bai14": false,
-      "bai15": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false,
-      "bai5": false,
-      "bai6": false,
-      "bai7": false,
-      "bai8": false,
-      "bai9": false
-    },
     "chuyen-de-so-hoc": {
       "bai10_choichoiso": false,
       "bai11_primequery": false,
@@ -589,13 +557,6 @@
       "bai9_chiasonguyen": false
     },
     "chon-dtqg-phanboichau-2024-25": {},
-    "tanki-kiemtradt-1": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false,
-      "bai5": false
-    },
     "tht-toanquoc-2025-26": {
       "bai1": false,
       "bai2": false,
@@ -617,17 +578,6 @@
       "cpl": false,
       "socp": false
     },
-    "dethikobtten": {
-      "ap": false,
-      "dauvat": false,
-      "pass": false,
-      "troly": false
-    },
-    "chondt-hsgtinh12-2025-26": {
-      "cau1": false,
-      "cau2": false,
-      "cau3": false
-    },
     "ts10-phutho2025-26": {
       "cau1": false,
       "cau2": false,
@@ -641,24 +591,6 @@
       "giftbuy": false
     },
     "thamlam2025-26": {},
-    "chondt-binhminh2025-26": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false
-    },
-    "chondt-2-vinh2025-26": {
-      "chiahet": false,
-      "chiakeo": false,
-      "phanthuong": false,
-      "sotk": false
-    },
-    "hsg-truong-tayhobadinh2017-18": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false
-    },
     "thcs-dubi-nghean-2023-24": {
       "b1": false,
       "b2": false,
@@ -701,23 +633,11 @@
       "REPALIND": false,
       "vacation": false
     },
-    "hsg-xa-l9-2025-26": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false
-    },
     "thithu-hsg-tinh-lan3-2024-25": {
       "BOBASO": false,
       "PROMAX": false,
       "ROBOTS": false,
       "SUMMAX": false
-    },
-    "dethithu": {
-      "BALANED": false,
-      "lcm": false,
-      "pwgen": false,
-      "RIVER": false
     },
     "hsgqg2025-26": {
       "gift": false,
@@ -751,13 +671,6 @@
       "manage": false,
       "sensors": false
     },
-    "mttn-luyentap2025-26": {
-      "bai1": false,
-      "bai2": false,
-      "bai2_trau": false,
-      "bai3": false,
-      "test": false
-    },
     "soloai-hue-ictc2026": {
       "bai1": false,
       "bai1_trau": false,
@@ -787,14 +700,6 @@
       "Chocolate": false,
       "shopping": false
     },
-    "junior-contest-1": {
-      "MaxofMins": false,
-      "MaxofMins_trau": false,
-      "NoDivisor": false,
-      "Sorting": false,
-      "test": false,
-      "YesDivisor": false
-    },
     "thithu-phan-l1": {
       "CITY": false,
       "COUNT": false,
@@ -811,13 +716,6 @@
       "bai1": false,
       "bai2": false,
       "bai3": false
-    },
-    "degiaoluu": {
-      "bai1": false,
-      "bai2": false,
-      "bai3": false,
-      "bai4": false,
-      "bai5": false
     },
     "ck-mttn-2026": {
       "bai3": false,
@@ -1031,11 +929,6 @@
       "gcd": false,
       "giddy": false,
       "toy": false
-    },
-    "test": {
-      "b": false,
-      "c": false,
-      "d": false
     }
   }
 }
