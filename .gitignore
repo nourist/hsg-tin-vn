@@ -1,3 +1,6 @@
 *.exe
 *.inp
 *.out
+*.inp_
+*.out_1
+*.out_2
