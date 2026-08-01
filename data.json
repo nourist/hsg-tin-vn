@@ -794,6 +794,119 @@
     "thithu_ts10-3-2025-26": {},
     "ts10_bariavungtau2023-24": {},
     "yugi-thithu-chondt-hsgqg_1": {},
-    "yugi-thithu-chondt-hsgqg_2": {}
+    "yugi-thithu-chondt-hsgqg_2": {},
+    "acoj-thithu-chond-hsgqg_1": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false
+    },
+    "chondt-hsgqg_haiphong2024": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "chondt-hsgqg_hanoi2024": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false,
+      "b7": false
+    },
+    "chondt-hsgqg_thainguyen2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false
+    },
+    "chondt-hsgqg_tuyenquang2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "chondt-hsgqg_dongthap2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "chondt-hsgqg_dhsphn2023": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "yugi-thithu-chondt-hsgqg_4": {
+      "zeros": false,
+      "arrow": false,
+      "mst": false
+    },
+    "yugi-thithu-chondt-hsgqg_3": {
+      "chut": false,
+      "inver": false,
+      "tree": false
+    },
+    "chondt-hsgqg_quangninh2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "chondt-hsgqg_lamdong2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false
+    },
+    "chondt-hsgqg_thanhhoa2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "chondt-hsgqg_daklak2025": {
+      "b4": false
+    },
+    "chondt-hsgqg_kontum2024-25": {
+      "TROCHOI": false,
+      "NICE": false,
+      "OLYMNET": false
+    },
+    "chondt-hsgqg_thaibinh2023-24": {
+      "TRAVEL": false,
+      "DEFERENT": false,
+      "PLANT": false
+    },
+    "chondt-hsgqg_hanoi2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false,
+      "b7": false,
+      "b8": false,
+      "b9": false
+    },
+    "hsgqg_2019-20": {
+      "b1": false,
+      "b2": false,
+      "b3": false
+    }
   }
 }
