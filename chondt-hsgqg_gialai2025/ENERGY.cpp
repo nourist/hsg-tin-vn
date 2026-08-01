@@ -26,41 +26,22 @@ using namespace std;
 #define Name "ENERGY"
 
 int n;
-pii a[(int)1e7 + 7];
+int v[(int)1e7 + 7];
+int l[(int)1e7 + 7];
+int r[(int)1e7 + 7];
+int bucketST[(int)1e7 + 7];
+int bucketEN[(int)1e7 + 7];
+int nxt[(int)1e7 + 7];
 
-struct BIT {
-	int bit[(int)1e7 + 7];
-
-	void update(int idx, int v) {
-		if (idx == 0)return;
-		for (idx; idx <= n; idx += (idx & (-idx)))bit[idx] += v;
+void add(int v, int i) {
+	if (bucketST[v] == 0) {
+		bucketST[v] = bucketEN[v] = i;
 	}
-
-	void insert(int idx) {
-		update(idx, 1);
+	else {
+		nxt[bucketEN[v]] = i;
+		bucketEN[v] = i;
 	}
-
-	void erase(int idx) {
-		update(idx, -1);
-	}
-
-	int getOrder(int idx) {
-		int res = 0;
-		for (idx; idx >= 1; idx -= (idx & (-idx)))res += bit[idx];
-		return res;
-	}
-
-	int getKey(int order) {
-		int pos = 0;
-		FOD(i, __lg(n), 0) {
-			if (pos + (1 << i) <= n && bit[pos + (1 << i)] < order) {
-				order -= bit[pos + (1 << i)];
-				pos += (1 << i);
-			}
-		}
-		return pos + 1;
-	}
-}pos, space;
+}
 
 int main() {
 	ios_base::sync_with_stdio(false);
@@ -73,36 +54,28 @@ int main() {
 	}
 
 	cin >> n;
-	FOR(i, 1, n)cin >> a[i].X;
-	FOR(i, 1, n)a[i].Y = i;
+	FOR(i, 1, n)cin >> v[i];
 
-	sort(a + 1, a + n + 1, greater<pii>());
+	FOR(i, 1, n)add(v[i], i);
+
+	FOR(i, 1, n) {
+		r[i] = i + 1;
+		l[i] = i - 1;
+	}
 
 	int res = 1e9;
-	FOR(i, 1, n) {
-		pos.insert(a[i].Y);
+	int mx = 1;
+	FOR(i, 0, n) {
+		if (bucketST[i] == 0)continue;
+		for (int pos = bucketST[i]; pos != 0; pos = nxt[pos]) {
+			int u = l[pos], v = r[pos];
 
-		auto it = pos.getOrder(a[i].Y);
+			if (i >= mx)res = min(res, mx);
 
-		if (it != 1 && it != i) {
-			int l = pos.getKey(it - 1);
-			int r = pos.getKey(it + 1);
-			space.erase(r - l);
-			space.insert(a[i].Y - l);
-			space.insert(r - a[i].Y);
-		}
-		else if (it != 1) {
-			int l = pos.getKey(it - 1);
-			space.insert(a[i].Y - l);
-		}
-		else if (it != i) {
-			int r = pos.getKey(it + 1);
-			space.insert(r - a[i].Y);
-		}
+			mx = max(mx, v - u);
 
-		int mx = space.getKey(space.getOrder(n));
-		if (i != 1 && a[i].X >= mx) {
-			res = min(res, mx);
+			r[u] = v;
+			l[v] = u;
 		}
 	}
 	cout << (res == 1e9 ? 0 : res);

@@ -25,6 +25,31 @@ using namespace std;
 #define TURN(x, i) ((x) ^ (1LL << (i)))
 #define Name "PEARL"
 
+int n, k;
+int a[2003];
+int f[2003];
+ll before_dp[2003];
+ll dp[2003];
+
+ll cost(int i, int j) {
+	return 1LL * (f[j] - f[i - 1]) * (f[j] - f[i - 1]);
+}
+
+void solve(int l, int r, int otpL, int otpR) {
+	if (l > r)return;
+
+	int mid = l + r >> 1;
+
+	pll best = { 1e18, -1 };
+	FOR(i, otpL, min(mid, otpR)) {
+		best = min(best, { before_dp[i - 1] + cost(i, mid),i });
+	}
+
+	dp[mid] = best.X;
+	solve(l, mid - 1, otpL, best.Y);
+	solve(mid + 1, r, best.Y, otpR);
+}
+
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
@@ -37,4 +62,23 @@ int main() {
 
 	int n, k;
 	cin >> n >> k;
+
+	FOR(i, 1, n)cin >> a[i];
+	FOR(i, 1, n)a[i + n] = a[i];
+	FOR(i, 1, n * 2)f[i] = f[i - 1] + a[i];
+
+	ll res = 1e18;
+	FOR(st, 1, n) {
+		FOR(i, st, st + n - 1) {
+			before_dp[i] = cost(st, i);
+		}
+
+		FOR(i, 2, k) {
+			solve(st, st + n - 1, st, st + n - 1);
+			FOR(i, st, st + n - 1)before_dp[i] = dp[i];
+		}
+
+		res = min(res, dp[st + n - 1]);
+	}
+	cout << res;
 }
