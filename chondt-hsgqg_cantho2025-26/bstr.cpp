@@ -21,21 +21,48 @@ int main() {
 
 	cin >> n >> s >> t;
 
-	vector<int>a;
+	vector<int> x, y;
 
 	FOR(i, 0, n - 1) {
 		if (s[i] != t[i]) {
-			a.push_back(i + 1);
+			if (s[i] == '0') {
+				x.push_back(i + 1);
+			}
+			else {
+				y.push_back(i + 1);
+			}
 		}
 	}
-
-	if (a.size() % 2 == 1) {
+	if ((x.size() + y.size()) % 2 == 1) {
 		cout << -1;
 		return 0;
 	}
 
-	cout << a.size() / 2 << endl;
-	for (int i = 0; i < a.size(); i += 2) {
-		cout << a[i + 1] << ' ' << a[i + 1] << endl << a[i + 1] << ' ' << a[i] << endl;
+	if (x.size() % 2 == 0) {
+		cout << x.size() / 2 + y.size() / 2 << endl;
+		for (int i = 0; i < x.size(); i += 2) {
+			cout << x[i] << ' ' << x[i + 1] << endl;
+		}
+		for (int i = 0; i < y.size(); i += 2) {
+			cout << y[i] << ' ' << y[i + 1] << endl;
+		}
+	}
+	else {
+		cout << x.size() / 2 + y.size() / 2 + 2 << endl;
+		for (int i = 0; i < x.size() - 1; i += 2) {
+			cout << x[i] << ' ' << x[i + 1] << endl;
+		}
+		for (int i = 0; i < y.size() - 1; i += 2) {
+			cout << y[i] << ' ' << y[i + 1] << endl;
+		}
+		int i = x.back();
+		int j = y.back();
+
+		cout << i << ' ' << i << endl << i << ' ' << j << endl;
 	}
 }
+
+/*
+i: 10
+j: 01
+*/
