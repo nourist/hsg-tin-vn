@@ -56,8 +56,8 @@ void solve() {
 			used[v[i].X] = 1;
 		}
 		else {
-			if (used[v[i].X])res = max(res, sum + k * a[v[i].X].Y);
-			else res = max(res, sum + (k - 1) * a[v[i].X].Y + a[v[i].X].X);
+			if (used[v[i].X])res = max(res, sum + 1LL * k * a[v[i].X].Y);
+			else res = max(res, sum + 1LL * (k - 1) * a[v[i].X].Y + a[v[i].X].X);
 		}
 		if (k == 0)break;
 	}
