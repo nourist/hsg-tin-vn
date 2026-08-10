@@ -907,6 +907,33 @@
       "b1": false,
       "b2": false,
       "b3": false
+    },
+    "chondt-hsgqg-bacninh2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "onthi-tht_1": {
+      "ARRAY": false,
+      "MIDDLE": false,
+      "HCN": false,
+      "BSEQUENCE": false
+    },
+    "chondt-hsgqg_thainguyen2023": {
+      "b1": false,
+      "b2": false,
+      "b3": false
+    },
+    "chondt-hsgqg_laocai2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
     }
   }
 }
