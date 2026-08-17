@@ -934,6 +934,58 @@
       "b4": false,
       "b5": false,
       "b6": false
+    },
+    "ondt_11-8": {
+      "khobau": false,
+      "hoanvi": false,
+      "BRIDGES": false
+    },
+    "ondt_11-8-2": {
+      "divinat": false,
+      "train": false,
+      "coin": false
+    },
+    "ondt_12-8": {
+      "SSUBARR": false,
+      "METRO": false,
+      "SWAPRECT": false
+    },
+    "ondt_12-8-2": {
+      "FOODS": false,
+      "LIFECITY": false,
+      "CPALINTER": false
+    },
+    "ondt_13-8": {
+      "b1": false,
+      "b2": false,
+      "b3": false
+    },
+    "ondt_14-8": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false
+    },
+    "chondt-hsgqg_quangngai2025": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "chondt-hsgqg_angiang2026": {
+      "b1": false,
+      "b2": false,
+      "b3": false,
+      "b4": false,
+      "b5": false,
+      "b6": false
+    },
+    "ondt_17-8": {
+      "b1": false,
+      "b2": false,
+      "b3": false
     }
   }
 }
