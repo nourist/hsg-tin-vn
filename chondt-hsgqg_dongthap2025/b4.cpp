@@ -25,6 +25,9 @@ using namespace std;
 #define TURN(x, i) ((x) ^ (1LL << (i)))
 #define Name "b4"
 
+int a[(int)3e5 + 5];
+int id[(int)3e5 + 5];
+
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
@@ -35,5 +38,25 @@ int main() {
 		freopen(Name".out", "w", stdout);
 	}
 
-	
+	int n, m;
+	cin >> n >> m;
+
+	FOR(i, 0, n - 1)cin >> a[i];
+
+	int cnt = 0;
+	FOR(i, 0, n - 1) {
+		if (id[i] != 0)continue;
+		cnt++;
+		int v = i;
+		do {
+			id[v] = cnt;
+			v = a[v];
+		} while (v != i);
+	}
+	while (m--) {
+		int u, v;
+		cin >> u >> v;
+		if (id[u] == id[v])cout << cnt + 1 << endl;
+		else cout << cnt - 1 << endl;
+	}
 }
