@@ -986,6 +986,15 @@
       "b1": false,
       "b2": false,
       "b3": false
+    },
+    "ondt_18-8": {
+      "bgame": false,
+      "dinner": false,
+      "shop": false,
+      "matrix": false,
+      "swgame": false,
+      "probs": false,
+      "paper": false
     }
   }
 }
